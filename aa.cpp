@@ -5,4 +5,5 @@ int main(){
     cout<<"Hello Git"<<endl;
     cout<<"The function is done!"<<endl;
     cout<<"try to whether use git add"<<endl;
+    cout<<"do something in 207(50%)"<<endl;
 }
